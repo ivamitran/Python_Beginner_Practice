@@ -12,6 +12,7 @@ def findSmallest(list):
     return min
 
 
+# testing the findSmallest function
 print(findSmallest(list1))
 print(findSmallest(list2))
 print(findSmallest(list3))
@@ -25,6 +26,7 @@ def findLargest(list):
     return max
 
 
+# testing the findLargest function
 print(findLargest(list1))
 print(findLargest(list2))
 print(findLargest(list3))
