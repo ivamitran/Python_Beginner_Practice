@@ -1,3 +1,3 @@
-# vSCode---Beginner-Practice
+# VSCode_Beginner_Practice
 
-This is just me practicing with Python while getting used to using GitHub. This isn't much, but I hope to pursue actual projects in the future.
+This is just me practicing creating algorithms in Python while getting more versed with GitHub.
